@@ -14,3 +14,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ### Сheck my webstie: [shushkoff.ru](https://shushkoff.ru/)
+Contacts:
+### ✉️ Wywkoff@gmail.com
+### 🌐 Telegram, linkedin - evshushkov
