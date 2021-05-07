@@ -17,3 +17,4 @@
 Contacts:
 ### ✉️ Wywkoff@gmail.com
 ### 🌐 Telegram, linkedin - evshushkov
+### [Codewars](https://www.codewars.com/users/Shushoq)
