@@ -1,5 +1,5 @@
 # 👋 Hi there, i'm Evgeniy Shushkov.
-## I'm beginner *frontend-developer*
+## I'm *frontend-developer*
 ### My skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
