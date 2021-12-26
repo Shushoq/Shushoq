@@ -11,7 +11,6 @@
 ![Gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)
 ![Scss](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass)
 ### Contacts:
-### ✉️ Wywkoff@gmail.com
-### 🌐 [Telegram](https://t.me/evshushkov)
+### Wywkoff@gmail.com
+### [Telegram](https://t.me/evshushkov)
 ### [linkedin](https://www.linkedin.com/in/evshushkov/)
-### [Codewars](https://www.codewars.com/users/Shushoq)
